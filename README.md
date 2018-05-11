@@ -3,6 +3,8 @@ This python script add .keyword in the fields when exports the visualizations fr
 
 How run on terminal:
 
+```
 python script_keyword.py <file_export.json>
+```
 
 When to finish the file export_keyword.json is created on directory of script.
